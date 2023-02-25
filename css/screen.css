@@ -75,3 +75,22 @@ input {
     background-color:#FFFFFF;
     font-size:2em;
 }
+
+@media screen and (min-width:1000px){
+    main{
+        width:75%;
+    }
+    h1 {
+        font-size:3.5em;
+    }
+    p {
+        font-size:2.5em;
+    }
+    ol {
+        font-size:1.75em;
+    }
+    #submit {
+        width:30%;
+        font-size:1.5em;
+    }
+}
